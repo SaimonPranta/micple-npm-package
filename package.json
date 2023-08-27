@@ -1,0 +1,24 @@
+{
+  "name": "micple",
+  "version": "1.0.0",
+  "description": "This package will be use to speed up development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaimonPranta/micple-npm-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaimonPranta/micple-npm-package/issues"
+  },
+  "homepage": "https://github.com/SaimonPranta/micple-npm-package#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-router-dom": "^5.2.0"
+  }
+}
